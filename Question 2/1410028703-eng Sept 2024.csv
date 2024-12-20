@@ -1,0 +1,162 @@
+﻿"Labour force characteristics by province, monthly, seasonally adjusted 1 2 3 4"
+"Frequency: Monthly"
+"Table: 14-10-0287-03"
+"Release date: 2024-10-11"
+"Geography: Canada, Province or territory"
+""
+""
+
+,"Sex","Both sexes",,,,,,
+,"Age group","25 to 54 years",,,,,,
+,"Statistics","Estimate",,,,,,
+,"Data type","Seasonally adjusted",,,,,,
+"Geography 5","Labour force characteristics","September 2023","August 2024","September 2024","September 2023 to September 2024","August 2024 to September 2024","August 2024 to September 2024","September 2023 to September 2024"
+"Canada",,"Persons",,,,,,
+,"Population 6 7","15,583.6","16,134.9","16,189.8","606.2","54.9","0.3","3.9"
+,"Labour force 8","13,864.6","14,259.6","14,309.1","444.5","49.5","0.3","3.2"
+,"Employment 9","13,217.0","13,492.6","13,526.5","309.5","33.9","0.3","2.3"
+,"Full-time employment 10","11,833.5","12,075.6","12,124.3","290.8","48.7","0.4","2.5"
+,"Part-time employment  11","1,383.5","1,416.9","1,402.3","18.8","-14.6","-1.0","1.4"
+,"Unemployment 12","647.6","767.0","782.6","135.0","15.6","2.0","20.8"
+,,"Percentage",,,,,,
+,"Unemployment rate 13","4.7","5.4","5.5","0.8","0.1","...","..."
+,"Participation rate 14","89.0","88.4","88.4","-0.6","0.0","...","..."
+,"Employment rate 15","84.8","83.6","83.5","-1.3","-0.1","...","..."
+"Newfoundland and Labrador",,"Persons",,,,,,
+,"Population 6 7","189.8","191.2","191.4","1.6","0.2","0.1","0.8"
+,"Labour force 8","162.4","167.7","168.6","6.2","0.9","0.5","3.8"
+,"Employment 9","149.3","151.7","153.4","4.1","1.7","1.1","2.7"
+,"Full-time employment 10","136.2","138.5","140.4","4.2","1.9","1.4","3.1"
+,"Part-time employment  11","13.1","13.2","13.0","-0.1","-0.2","-1.5","-0.8"
+,"Unemployment 12","13.1","16.0","15.1","2.0","-0.9","-5.6","15.3"
+,,"Percentage",,,,,,
+,"Unemployment rate 13","8.1","9.5","9.0","0.9","-0.5","...","..."
+,"Participation rate 14","85.6","87.7","88.1","2.5","0.4","...","..."
+,"Employment rate 15","78.7","79.3","80.1","1.4","0.8","...","..."
+"Prince Edward Island",,"Persons",,,,,,
+,"Population 6 7","65.3","68.4","68.7","3.4","0.3","0.4","5.2"
+,"Labour force 8","58.8","61.4","61.8","3.0","0.4","0.7","5.1"
+,"Employment 9","55.5","57.2","57.6","2.1","0.4","0.7","3.8"
+,"Full-time employment 10","51.7","52.3","53.3","1.6","1.0","1.9","3.1"
+,"Part-time employment  11","3.8","4.9","4.3","0.5","-0.6","-12.2","13.2"
+,"Unemployment 12","3.3","4.2","4.1","0.8","-0.1","-2.4","24.2"
+,,"Percentage",,,,,,
+,"Unemployment rate 13","5.6","6.8","6.6","1.0","-0.2","...","..."
+,"Participation rate 14","90.0","89.8","90.0","0.0","0.2","...","..."
+,"Employment rate 15","85.0","83.6","83.8","-1.2","0.2","...","..."
+"Nova Scotia",,"Persons",,,,,,
+,"Population 6 7","380.7","393.6","394.8","14.1","1.2","0.3","3.7"
+,"Labour force 8","335.2","345.9","348.3","13.1","2.4","0.7","3.9"
+,"Employment 9","317.4","326.6","329.2","11.8","2.6","0.8","3.7"
+,"Full-time employment 10","289.2","292.6","297.6","8.4","5.0","1.7","2.9"
+,"Part-time employment  11","28.2","34.0","31.6","3.4","-2.4","-7.1","12.1"
+,"Unemployment 12","17.8","19.3","19.1","1.3","-0.2","-1.0","7.3"
+,,"Percentage",,,,,,
+,"Unemployment rate 13","5.3","5.6","5.5","0.2","-0.1","...","..."
+,"Participation rate 14","88.0","87.9","88.2","0.2","0.3","...","..."
+,"Employment rate 15","83.4","83.0","83.4","0.0","0.4","...","..."
+"New Brunswick",,"Persons",,,,,,
+,"Population 6 7","296.7","308.9","309.6","12.9","0.7","0.2","4.3"
+,"Labour force 8","264.3","269.8","269.8","5.5","0.0","0.0","2.1"
+,"Employment 9","248.4","253.8","251.7","3.3","-2.1","-0.8","1.3"
+,"Full-time employment 10","229.5","228.8","229.2","-0.3","0.4","0.2","-0.1"
+,"Part-time employment  11","18.9","25.0","22.5","3.6","-2.5","-10.0","19.0"
+,"Unemployment 12","15.9","16.1","18.1","2.2","2.0","12.4","13.8"
+,,"Percentage",,,,,,
+,"Unemployment rate 13","6.0","6.0","6.7","0.7","0.7","...","..."
+,"Participation rate 14","89.1","87.3","87.1","-2.0","-0.2","...","..."
+,"Employment rate 15","83.7","82.2","81.3","-2.4","-0.9","...","..."
+"Quebec",,"Persons",,,,,,
+,"Population 6 7","3,348.2","3,436.5","3,445.4","97.2","8.9","0.3","2.9"
+,"Labour force 8","3,035.1","3,085.8","3,090.1","55.0","4.3","0.1","1.8"
+,"Employment 9","2,916.6","2,940.4","2,940.6","24.0","0.2","0.0","0.8"
+,"Full-time employment 10","2,637.1","2,673.5","2,683.4","46.3","9.9","0.4","1.8"
+,"Part-time employment  11","279.5","266.9","257.3","-22.2","-9.6","-3.6","-7.9"
+,"Unemployment 12","118.6","145.4","149.5","30.9","4.1","2.8","26.1"
+,,"Percentage",,,,,,
+,"Unemployment rate 13","3.9","4.7","4.8","0.9","0.1","...","..."
+,"Participation rate 14","90.6","89.8","89.7","-0.9","-0.1","...","..."
+,"Employment rate 15","87.1","85.6","85.3","-1.8","-0.3","...","..."
+"Ontario",,"Persons",,,,,,
+,"Population 6 7","6,161.3","6,397.6","6,420.4","259.1","22.8","0.4","4.2"
+,"Labour force 8","5,461.8","5,641.2","5,661.2","199.4","20.0","0.4","3.7"
+,"Employment 9","5,181.4","5,329.6","5,345.9","164.5","16.3","0.3","3.2"
+,"Full-time employment 10","4,673.9","4,791.8","4,810.2","136.3","18.4","0.4","2.9"
+,"Part-time employment  11","507.5","537.8","535.6","28.1","-2.2","-0.4","5.5"
+,"Unemployment 12","280.4","311.6","315.3","34.9","3.7","1.2","12.4"
+,,"Percentage",,,,,,
+,"Unemployment rate 13","5.1","5.5","5.6","0.5","0.1","...","..."
+,"Participation rate 14","88.6","88.2","88.2","-0.4","0.0","...","..."
+,"Employment rate 15","84.1","83.3","83.3","-0.8","0.0","...","..."
+"Manitoba",,"Persons",,,,,,
+,"Population 6 7","532.8","553.9","556.0","23.2","2.1","0.4","4.4"
+,"Labour force 8","476.5","492.5","496.0","19.5","3.5","0.7","4.1"
+,"Employment 9","457.0","469.2","473.2","16.2","4.0","0.9","3.5"
+,"Full-time employment 10","412.0","419.8","422.3","10.3","2.5","0.6","2.5"
+,"Part-time employment  11","45.0","49.3","50.9","5.9","1.6","3.2","13.1"
+,"Unemployment 12","19.5","23.3","22.8","3.3","-0.5","-2.1","16.9"
+,,"Percentage",,,,,,
+,"Unemployment rate 13","4.1","4.7","4.6","0.5","-0.1","...","..."
+,"Participation rate 14","89.4","88.9","89.2","-0.2","0.3","...","..."
+,"Employment rate 15","85.8","84.7","85.1","-0.7","0.4","...","..."
+"Saskatchewan",,"Persons",,,,,,
+,"Population 6 7","453.0","468.8","470.6","17.6","1.8","0.4","3.9"
+,"Labour force 8","405.0","415.2","421.3","16.3","6.1","1.5","4.0"
+,"Employment 9","386.2","395.9","399.3","13.1","3.4","0.9","3.4"
+,"Full-time employment 10","352.7","356.5","355.0","2.3","-1.5","-0.4","0.7"
+,"Part-time employment  11","33.5","39.4","44.3","10.8","4.9","12.4","32.2"
+,"Unemployment 12","18.8","19.3","21.9","3.1","2.6","13.5","16.5"
+,,"Percentage",,,,,,
+,"Unemployment rate 13","4.6","4.6","5.2","0.6","0.6","...","..."
+,"Participation rate 14","89.4","88.6","89.5","0.1","0.9","...","..."
+,"Employment rate 15","85.3","84.4","84.8","-0.5","0.4","...","..."
+"Alberta",,"Persons",,,,,,
+,"Population 6 7","1,997.5","2,090.8","2,100.8","103.3","10.0","0.5","5.2"
+,"Labour force 8","1,760.8","1,847.0","1,853.9","93.1","6.9","0.4","5.3"
+,"Employment 9","1,686.0","1,725.3","1,733.8","47.8","8.5","0.5","2.8"
+,"Full-time employment 10","1,488.3","1,515.5","1,530.6","42.3","15.1","1.0","2.8"
+,"Part-time employment  11","197.7","209.8","203.2","5.5","-6.6","-3.1","2.8"
+,"Unemployment 12","74.8","121.7","120.2","45.4","-1.5","-1.2","60.7"
+,,"Percentage",,,,,,
+,"Unemployment rate 13","4.2","6.6","6.5","2.3","-0.1","...","..."
+,"Participation rate 14","88.2","88.3","88.2","0.0","-0.1","...","..."
+,"Employment rate 15","84.4","82.5","82.5","-1.9","0.0","...","..."
+"British Columbia",,"Persons",,,,,,
+,"Population 6 7","2,158.2","2,225.2","2,232.0","73.8","6.8","0.3","3.4"
+,"Labour force 8","1,904.7","1,933.1","1,938.2","33.5","5.1","0.3","1.8"
+,"Employment 9","1,819.3","1,843.0","1,841.8","22.5","-1.2","-0.1","1.2"
+,"Full-time employment 10","1,566.7","1,594.3","1,600.2","33.5","5.9","0.4","2.1"
+,"Part-time employment  11","252.6","248.6","241.5","-11.1","-7.1","-2.9","-4.4"
+,"Unemployment 12","85.4","90.1","96.5","11.1","6.4","7.1","13.0"
+,,"Percentage",,,,,,
+,"Unemployment rate 13","4.5","4.7","5.0","0.5","0.3","...","..."
+,"Participation rate 14","88.3","86.9","86.8","-1.5","-0.1","...","..."
+,"Employment rate 15","84.3","82.8","82.5","-1.8","-0.3","...","..."
+
+Symbol legend:
+..., not applicable
+
+
+
+
+Footnotes:
+1,"Fluctuations in economic time series are caused by seasonal, cyclical and irregular movements. A seasonally adjusted series is one from which seasonal movements have been eliminated. Seasonal movements are defined as those which are caused by regular annual events such as climate, holidays, vacation periods and cycles related to crops, production and retail sales associated with Christmas and Easter. It should be noted that the seasonally adjusted series contain irregular as well as longer-term cyclical fluctuations. The seasonal adjustment program is a complicated computer program which differentiates between these seasonal, cyclical and irregular movements in a series over a number of years and, on the basis of past movements, estimates appropriate seasonal factors for current data. On an annual basis, the historic series of seasonally adjusted data are revised in light of the most recent information on changes in seasonality."
+2,"To ensure respondent confidentiality, estimates below a certain threshold are suppressed. For Canada, Quebec, Ontario, Alberta and British Columbia suppression is applied to all data below 1,500. The threshold level for Newfoundland and Labrador, Nova Scotia, New Brunswick, Manitoba and Saskatchewan is 500, while in Prince Edward Island, estimates under 200 are supressed. For census metropolitan areas (CMAs) and economic regions (ERs), use their respective provincial suppression levels mentioned above. Estimates are based on smaller sample sizes the more detailed the table becomes, which could result in lower data quality."
+3,"For more information on seasonal adjustment see <a href="http://www.statcan.gc.ca/eng/dai/btd/sad-faq">Seasonally adjusted data - Frequently asked questions</a>."
+4,"Starting in 2006, enhancements to the Labour Force Survey data processing system may have introduced a level shift in some estimates, particularly for less common labour force characteristics. Use caution when comparing estimates before and after 2006. For more information, contact statcan.labour-travail.statcan@statcan.gc.ca"
+5,"Excluding the territories."
+6,"Number of persons of working age, 15 years and over. Estimates in thousands, rounded to the nearest hundred."
+7,"From December 2000 to January 2001, there is a slight level shift in the population series. This is due to the 2015 population rebasing, which was revised back to 2001. This level shift is evident for certain age groups and in two provinces (Manitoba and Saskatchewan). These shifts are minor for labour force estimates and rates."
+8,"Number of civilian, non-institutionalized persons 15 years of age and over who, during the reference week, were employed or unemployed. Estimates in thousands, rounded to the nearest hundred."
+9,"Number of persons who, during the reference week, worked for pay or profit, or performed unpaid family work or had a job but were not at work due to own illness or disability, personal or family responsibilities, labour dispute, vacation, or other reason. Those persons on layoff and persons without work but who had a job to start at a definite date in the future are not considered employed. Estimates in thousands, rounded to the nearest hundred."
+10,"Full-time employment consists of persons who usually work 30 hours or more per week at their main or only job. Estimates in thousands, rounded to the nearest hundred."
+11,"Part-time employment consists of persons who usually work less than 30 hours per week at their main or only job. Estimates in thousands, rounded to the nearest hundred."
+12,"Number of persons who, during the reference week, were without work, had looked for work in the past four weeks, and were available for work. Those persons on layoff or who had a new job to start in four weeks or less are considered unemployed. Estimates in thousands, rounded to the nearest hundred."
+13,"The unemployment rate is the number of unemployed persons expressed as a percentage of the labour force. The unemployment rate for a particular group (age, sex, marital status, etc.) is the number unemployed in that group expressed as a percentage of the labour force for that group. Estimates are percentages, rounded to the nearest tenth."
+14,"The participation rate is the number of labour force participants expressed as a percentage of the population 15 years of age and over. The participation rate for a particular group (age, sex, marital status, etc.) is the number of labour force participants in that group expressed as a percentage of the population for that group. Estimates are percentages, rounded to the nearest tenth."
+15,"The employment rate is the number of persons employed expressed as a percentage of the population 15 years of age and over. The employment rate for a particular group (age, sex, marital status, etc.) is the number employed in that group expressed as a percentage of the population for that group. Estimates are percentages, rounded to the nearest tenth."
+
+
+
+"How to cite: Statistics Canada. Table 14-10-0287-03  Labour force characteristics by province, monthly, seasonally adjusted"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028703
